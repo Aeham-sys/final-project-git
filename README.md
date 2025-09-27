@@ -1,5 +1,5 @@
 # Final Project - Git & GitHub
-
+# bug-fix-typo
 This repository is created for the Peer-graded Assignment: Final Project.
 
 ## Files included
